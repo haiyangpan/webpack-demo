@@ -1,0 +1,17 @@
+{
+  "name": "scrollThrottle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server --colors --progress --open"
+  },
+  "dependencies": {
+    "@babel/core": "^7.4.4",
+    "babel-loader": "^8.0.6",
+    "html-webpack-plugin": "^3.2.0",
+    "throttle-debounce": "^2.1.0",
+    "webpack": "3",
+    "webpack-dev-server": "2"
+  }
+}
